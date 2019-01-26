@@ -25,7 +25,6 @@ import com.github.theholywaffle.teamspeak3.api.wrapper.ServerGroup;
 import tsbot.commands.CmdRegister;
 import tsbot.commands.CmdReport;
 import tsbot.commands.CmdTime;
-import tsbot.commands.SpamProtector;
 import tsbot.commands.TSCommand;
 
 public class TSBot {

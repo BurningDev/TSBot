@@ -2,7 +2,7 @@
  * TSBOT
  * Licensed under MIT-License
  */
-package tsbot.commands;
+package tsbot.core;
 
 import java.util.Arrays;
 import java.util.HashMap;
